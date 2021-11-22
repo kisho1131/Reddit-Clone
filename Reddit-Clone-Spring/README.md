@@ -16,10 +16,4 @@ Reddit clone built using Spring Boot, Spring Security with JPA Authentication, S
 
 ![Create Post Page](https://github.com/SaiUpadhyayula/spring-reddit-clone/blob/master/src/main/resources/images/create-post.PNG)
 
-4. Create Subreddit Page
 
-![Create Subreddit Page](https://github.com/SaiUpadhyayula/spring-reddit-clone/blob/master/src/main/resources/images/create-subreddit.PNG)
-
-5. User Profile Page
-
-![User Profile Page](https://github.com/SaiUpadhyayula/spring-reddit-clone/blob/master/src/main/resources/images/user-profile.PNG)
